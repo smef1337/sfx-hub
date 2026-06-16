@@ -1,4 +1,8 @@
 # SFX-HUB - Premiere Pro & After Effects Sound Design Extension
+This is the complete plugin. I don't feel like creating a .zxp file, so just enable the debug mode and copy the folder.
+
+
+<img width="816" height="610" alt="Screenshot 2026-06-16 160345" src="https://github.com/user-attachments/assets/f9ac3a94-dfb1-468c-8aea-64f8475ce608" />
 
 ---
 
