@@ -1,10 +1,13 @@
-# SFX-HUB - Premiere Pro & After Effects Sound Design Extension
-This is the complete plugin. I don't feel like creating a .zxp file, so just enable the debug mode and copy the folder.
+# hub.wav - Premiere Pro & After Effects Sound Design Extension
 
-
-<img width="816" height="610" alt="Screenshot 2026-06-16 160345" src="https://github.com/user-attachments/assets/f9ac3a94-dfb1-468c-8aea-64f8475ce608" />
+hub.wav is a premium sound design extension panel (CEP) built for Adobe After Effects and Adobe Premiere Pro. It streamlines video editing and motion graphics workflows by providing a beautiful, hardware-inspired browser to search, preview, and insert your own local sound libraries directly onto timelines.
 
 ---
+
+<img width="816" height="608" alt="With Menu" src="https://github.com/user-attachments/assets/f6616c1a-3051-4576-989e-34c8894f7fde" />
+<img width="816" height="611" alt="without menu" src="https://github.com/user-attachments/assets/6155516b-afc6-4596-ab8a-492137b73946" />
+
+
 
 ## Features
 
@@ -42,13 +45,13 @@ By default, Adobe applications will only load digitally signed extensions. To lo
 Move or symlink the folder into Adobe's default Extension folder:
 
 - **Windows:**
-  Copy the `SFX-HUB` folder to:
-  `C:\Users\<Your-Username>\AppData\Roaming\Adobe\CEP\extensions\SFX-HUB`
+  Copy the `hub.wav` folder to:
+  `C:\Users\<Your-Username>\AppData\Roaming\Adobe\CEP\extensions\hub.wav`
   *(Create the `CEP` and `extensions` folders if they do not exist)*
 
 - **macOS:**
   Copy the folder to:
-  `~/Library/Application Support/Adobe/CEP/extensions/SFX-HUB`
+  `~/Library/Application Support/Adobe/CEP/extensions/hub.wav`
 
 ---
 
@@ -56,8 +59,8 @@ Move or symlink the folder into Adobe's default Extension folder:
 
 1. Open Adobe Premiere Pro (v2022+) or After Effects (v2021+).
 2. Open a project and ensure you have an **active timeline** open (a sequence in Premiere or a composition in After Effects).
-3. Navigate to the top menu: **Window** > **Extensions** > **SFX-HUB**.
-4. In the SFX-HUB panel:
+3. Navigate to the top menu: **Window** > **Extensions** > **hub.wav**.
+4. In the hub.wav panel:
    - The detected application ("Premiere Pro Mode" or "After Effects Mode") will show below the title logo.
    - Click the **Custom Folders** tab on the left sidebar.
    - Click **Select SFX Folder** and select any local folder containing your audio files.
